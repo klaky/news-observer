@@ -21,5 +21,9 @@
     "webpack": "1.12.14"
   },
   "name": "news-observer",
-  "description": "news-observer: An Ionic project"
+  "description": "news-observer: An Ionic project",
+  "cordovaPlugins": [],
+  "cordovaPlatforms": [
+    "android"
+  ]
 }
